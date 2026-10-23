@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://arch.bobine.fit/sitemap.xml
